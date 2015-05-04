@@ -1,19 +1,14 @@
 Start: Mon, 27 Apr 2015 21:30:23 -0700
-
-End:
- Mon, 27 Apr 2015 23:14:05 -0700
+End: Mon, 27 Apr 2015 23:14:05 -0700
 Tasks: Began working on login.php -- didn't get a whole lot accomplished.
 
 Start: Thu, 30 Apr 2015 16:30:02 -0700
-End:
- Thu, 30 Apr 2015 22:28:54 -0700
+End: Thu, 30 Apr 2015 22:28:54 -0700
 Tasks: Finished most of login.php, started working on multtable.php, glanced over loopback.php
 
 Start: Fri, 01 May 2015 13:44:09 -0700
 End: Fri, 01 May 2015 23:11:32 -0700
 Tasks: Finished loopback.php, worked on multtable.php
-
-
 
 Start: Sat, 02 May 2015 11:00:00 -0700
 End: Sat, 02 May 2015 19:12:13 -0700
