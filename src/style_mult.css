@@ -1,0 +1,15 @@
+html {
+  background-color:#E0F0FF;
+  font-family:Lucida Sans;
+  font-size:12pt;
+}
+
+table, tr, td {
+    margin-left: 0px;
+    padding:10px;
+    text-align: center;
+    border-width:thin;
+    border-style:solid;
+    border-color:black;
+    background-color:#F2F5F6;
+}

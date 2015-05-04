@@ -1,0 +1,84 @@
+html {
+  background-color:#E0F0FF;
+}
+
+table {
+  border-style:hidden;
+  width:100%;
+}
+
+tr {
+  width:90%;
+}
+
+td {
+  width:50%;
+  padding:20px;
+  vertical-align:top;
+}
+
+div.title {
+  text-align:left;
+  font-family:Lucida Sans;
+  font-size:12pt;
+}
+
+div.login-section {
+  text-align:right;
+  font-family:Lucida Sans;
+  font-size:12pt;
+}
+
+div.content1-header {
+  margin-top:10px;
+  font-family:Lucida Sans;
+  font-weight:bold;
+  font-size:16pt;
+}
+
+div.content1-body {
+  margin-top:10px;
+  padding:20px;
+  font-family:Lucida Sans;
+  border-color:#d3d3d3;
+  border-width:thin;
+  border-style:solid;
+  background-color:#F2F5F6;
+  font-size:12pt;
+}
+
+div.content2-header {
+  margin-top:10px;
+  margin-right:10px;
+  font-family:Lucida Sans;
+  font-weight:bold;
+  font-size:16pt;
+}
+
+div.content2-body {
+  margin-top:10px;
+  padding:20px;
+  font-family:Lucida Sans;
+  border-width:10px;
+  border-color:#d3d3d3;
+  border-width:thin;
+  border-style:solid;
+  background-color:#F2F5F6;
+  font-size:12pt;
+}
+
+.SubmitButton {
+  background-color:#8AA4BD;
+  color:#ffffff;
+  font-size:12pt;
+  box-shadow:1px;
+  border: 1px solid #1A334C;
+}
+
+button {
+  background-color:#8AA4BD;
+  color:#ffffff;
+  font-size:12pt;
+  box-shadow:1px;
+  border: 1px solid #1A334C;
+}
